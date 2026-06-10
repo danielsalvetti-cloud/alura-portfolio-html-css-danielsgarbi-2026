@@ -1,1 +1,10 @@
-
+body{
+    background: #80590A;
+  strong{
+    color: gray;
+  }
+  h1{
+    color: pink;
+    test-align: center;
+  }
+}
